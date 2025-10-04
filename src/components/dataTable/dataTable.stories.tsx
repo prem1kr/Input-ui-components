@@ -13,8 +13,8 @@ const columns: Column<User>[] = [
 ];
 
 const data: User[] = [
-  { id: 1, name: 'Alice',  email: 'alice@example.com' },
-  { id: 2, name: 'Bob', email: 'bob@example.com' },
+  { id: 1, name: 'Prem',  email: 'premkm016@zohomail.com' },
+  { id: 2, name: 'Kumar', email: 'prem78334@gmail.com' },
 ];
 
 export default {
